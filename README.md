@@ -1,4 +1,4 @@
-[![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=zlj-zz&count_private=true)](https://github.com/bachoseven/bachoseven)
+[![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=zlj-zz&count_private=true&show_icons=true)](https://github.com/zlj-zz/zlj-zz.github.io)
 
 
 <!--
