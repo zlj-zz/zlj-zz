@@ -1,6 +1,8 @@
 
 ### Hi there 👋
 
+[![Github](https://img.shields.io/github/followers/zlj-zz?label=Follow&style=social)](https://github.com/zlj-zz)
+
 Here are some ideas to get you started:
 
 - 🌔 I’m a vimer and terminal enthusiasts.
