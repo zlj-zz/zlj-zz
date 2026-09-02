@@ -24,6 +24,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: generate 3d contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: collect assets
+        run: mkdir -p dist && cp -r profile-3d-contrib dist/
+
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

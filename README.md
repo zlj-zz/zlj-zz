@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1f2328,100:2ea043&section=header&text=Zachary&fontSize=42&fontColor=e6edf3&animation=fadeIn&desc=make+%C2%B7+build+%C2%B7+tinker&descSize=16&descY=45" alt="header">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=57A143&center=true&vCenter=true&width=650&height=60&lines=hi,+i'm+zachary+%F0%9F%91%8B;i+make+tiny+tools+that+do+one+thing+well;probably+refactoring+something+right+now;bugs+fear+me+(eventually)" alt="typing">
 
 <br>
@@ -32,8 +34,15 @@
   <img src="https://raw.githubusercontent.com/zlj-zz/zlj-zz/output/github-contribution-grid-snake.svg" alt="contribution snake">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zlj-zz/zlj-zz/output/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/zlj-zz/zlj-zz/output/profile-3d-contrib/profile-green-animate.svg" alt="3d contribution graph">
+</picture>
+
 <br>
 
 <samp>may your builds be green and your coffee strong ☕</samp>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f2328,100:2ea043&section=footer" alt="footer">
 
 </div>
