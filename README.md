@@ -10,13 +10,12 @@
 
 <br>
 
-[![Blog](https://img.shields.io/badge/blog-zlj--zz.github.io-282a2e?style=flat-square&logo=github&logoColor=white)](https://zlj-zz.github.io)
-[![Email](https://img.shields.io/badge/email-zlj19971222%40outlook.com-282a2e?style=flat-square&logo=minutemailer&logoColor=white)](mailto:zlj19971222@outlook.com)
+[![Blog](https://img.shields.io/badge/blog-zlj--zz.github.io-282a2e?style=flat-square&logo=github&logoColor=white)](https://zlj-zz.github.io) [![Email](https://img.shields.io/badge/email-zlj19971222%40outlook.com-282a2e?style=flat-square&logo=minutemailer&logoColor=white)](mailto:zlj19971222@outlook.com)
 
 <br>
 
-🛠 building small tools that do one thing well
-📡 tinkering with BLE, robots & IoT gadgets
+🛠 building small tools that do one thing well  
+📡 tinkering with BLE, robots & IoT gadgets  
 🌏 shenzhen, cn
 
 <br>
