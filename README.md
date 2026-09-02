@@ -1,12 +1,10 @@
 <!-- ═══════════════════════════════════════
      zlj-zz · profile README
-     patterns: anuraghazra (centered, emoji about, icon row)
-               + typing svg + snake + ending quote
      ═══════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=57A143&center=true&vCenter=true&width=650&height=60&lines=terminal+enthusiast;vimmer;building+keyboard-first+tools;shipping+from+a+tmux+session+near+you" alt="typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=57A143&center=true&vCenter=true&width=650&height=60&lines=hi,+i'm+zachary+%F0%9F%91%8B;i+make+tiny+tools+that+do+one+thing+well;probably+refactoring+something+right+now;bugs+fear+me+(eventually)" alt="typing">
 
 <br>
 
@@ -15,20 +13,26 @@
 
 <br>
 
-⌨️ vimmer & terminal enthusiast
-🛠 building keyboard-first tools — git clients, TUI apps, agent statuslines
-🌙 living in [nvim](https://github.com/zlj-zz/nvim) + [dotconfig](https://github.com/zlj-zz/dotconfig)
-📫 blog: [zlj-zz.github.io](https://zlj-zz.github.io)
+🛠 building small tools that do one thing well
+📡 tinkering with BLE, robots & random gadgets
+🌏 shenzhen, cn — in an apartment full of dev boards
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,lua,ts,vue,neovim,vim,linux,git&perline=8" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,lua,ts,vue,neovim,linux,git&perline=8" alt="tech stack">
 
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![fish](https://img.shields.io/badge/fish-4DAA57?style=flat-square)
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square)
-![ranger](https://img.shields.io/badge/ranger-2a2a2a?style=flat-square)
-![i3](https://img.shields.io/badge/i3-0088CC?style=flat-square)
+<br>
+
+**🎲 fun facts**
+
+📚 wrote a novel downloader — downloads faster than i read
+🤖 once made a robot arm wave back at me
+🚴 built a GPS bike computer, mostly ride without it
+🌙 my neovim config has more commits than some products
+
+<br>
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=1f2328&borderColor=30363d&codeColor=57A143&qColor=e6edf3&aColor=57A143" alt="random dev joke">
 
 <br>
 
@@ -39,6 +43,6 @@
 
 <br>
 
-<samp>"do one thing and do it well." — the unix philosophy</samp>
+<samp>may your builds be green and your coffee strong ☕</samp>
 
 </div>
