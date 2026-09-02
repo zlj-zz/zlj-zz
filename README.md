@@ -14,21 +14,12 @@
 <br>
 
 🛠 building small tools that do one thing well
-📡 tinkering with BLE, robots & random gadgets
-🌏 shenzhen, cn — in an apartment full of dev boards
+📡 tinkering with BLE, robots & IoT gadgets
+🌏 shenzhen, cn
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=python,lua,ts,vue,neovim,linux,git&perline=8" alt="tech stack">
-
-<br>
-
-**🎲 fun facts**
-
-📚 wrote a novel downloader — downloads faster than i read
-🤖 once made a robot arm wave back at me
-🚴 built a GPS bike computer, mostly ride without it
-🌙 my neovim config has more commits than some products
 
 <br>
 
